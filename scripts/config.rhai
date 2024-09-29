@@ -5,7 +5,7 @@ let titles_methods = ["Optimization", "Learning"];
 let titles =  titles_type + titles_object + titles_modules + titles_methods;
 
 let authors_1 = ["Fei Gao", "Boyu Zhou", "Wenchao Ding", "Shaojie Shen", "Tong Qin", "Guanya Shi", "Quan Quan", "Yunlong Song", "Peng Yin", "Ji Zhang", "Hang Zhao"];
-let authors_2 = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Li Fei-Fei", "Vijay Kumar", "Davide Scaramuzza", "Jonathan P. How", "Russ Tedrake", "Ilya Sutskever"];
+let authors_2 = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Li Fei-Fei", "Vijay Kumar", "Davide Scaramuzza", "Jonathan P. How", "Russ Tedrake", "Ilya Sutskever", "Mark W. Mueller"];
 let authors_array = authors_1 + authors_2;
 
 let conferences = [
