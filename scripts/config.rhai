@@ -1,7 +1,7 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_object = ["Quadrotor", "UAV", "UGV", "Quadruped", "Humanoid"];
 let titles_modules = ["Planner", "Planning", "Trajectory", "Localization", "SLAM", "Odometry"];
-let titles_method = ["Optimization", "Learning"];
+let titles_methods = ["Optimization", "Learning"];
 let titles =  titles_type + titles_object + titles_modules + titles_methods;
 
 let authors_1 = ["Fei Gao", "Boyu Zhou", "Wenchao Ding", "Shaojie Shen", "Tong Qin", "Guanya Shi", "Quan Quan", "Yunlong Song", "Peng Yin", "Ji Zhang"];
