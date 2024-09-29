@@ -4,7 +4,7 @@ let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
 let titles =  titles_model + titles_method + titles_type;
 
 let authors_1 = ["Fei Gao", "Boyu Zhou", "Wenchao Ding", "Shaojie Shen", "Tong Qin", "Guanya Shi", "Quan Quan", "Yunlong Song", "Peng Yin", "Ji Zhang"];
-let authors_2 = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Li Fei-Fei", "Vijay Kumar", "Davide Scaramuzza", "Jonathan P. How"， "Russ Tedrake", "Ilya Sutskever"];
+let authors_2 = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Li Fei-Fei", "Vijay Kumar", "Davide Scaramuzza", "Jonathan P. How", "Russ Tedrake", "Ilya Sutskever"];
 let authors_array = authors_1 + authors_2;
 
 let conferences = [
