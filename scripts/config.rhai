@@ -1,5 +1,5 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_object = ["Quadrotor", "UAV", "UGV", "Quadruped", "Humanoid"];
+let titles_object = ["Quadrotor", "UAV", "UGV", "Quadruped", "Humanoid", "Aerial", "Agent", "Drones", "Multirotor"];
 let titles_modules = ["Planner", "Planning", "Trajectory", "Localization", "SLAM", "Odometry"];
 let titles_methods = ["Optimization", "Learning"];
 let titles =  titles_type + titles_object + titles_modules + titles_methods;
